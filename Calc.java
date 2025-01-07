@@ -2,7 +2,7 @@ import java.util.*;
 
 
 
-public class Calc {
+public class Calculator {
     public static void main(String[] args){
         Scanner scn=new Scanner(System.in);
         int a,b,c;
